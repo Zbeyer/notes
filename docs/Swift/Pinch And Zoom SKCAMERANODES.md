@@ -15,7 +15,7 @@ Used a few crops from Desert Tileset provided by MrBeast at Open Game Art: <http
 
 I confess I sort of botched the image cropping a bit—was in a rush:
 
-[![img](assets/Screen-Shot-2017-12-23-at-4.23.08-PM-1024x778.png)](http://www.zbeyer.com/wp-content/uploads/2017/12/Screen-Shot-2017-12-23-at-4.23.08-PM.png)Image crops from Open Game Art: https://opengameart.org/content/desert-tileset-0
+[![img](assets/Screen-Shot-2017-12-23-at-4.23.08-PM-1024x778.jpg)](http://www.zbeyer.com/wp-content/uploads/2017/12/Screen-Shot-2017-12-23-at-4.23.08-PM.jpg)Image crops from Open Game Art: https://opengameart.org/content/desert-tileset-0
 
 ### CODE:
 
