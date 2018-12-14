@@ -4,26 +4,26 @@ theme:
   # name: cinder
   name: bootstrap
   # name: material
-# custom_dir: 
-# - 'zb/'
-  # name: 'rtd-dropdown'
+custom_dir: 
+- 'theme/'
+
 extra_js:
-  # - 'zb/js/base.js'
-  # - 'zb/js/jquery-3.3.1.min.js'
-  # - 'zb/js/bootstrap-3.0.3.min.js'
-  # - 'zb/js/highlight.pack.js'
+  - 'theme/js/base.js'
+  - 'theme/js/jquery-3.3.1.min.js'
+  - 'theme/js/bootstrap-3.0.3.min.js'
+  - 'theme/js/highlight.pack.js'
  
 extra_css:
-  # - 'zb/css/base.css'
-  # - 'zb/css/base.min.css'
-  # - 'zb/css/bootstrap-custom.css'
-  # - 'zb/css/bootstrap-custom.min.css'
-  # - 'zb/css/cinder.css'
-  # - 'zb/css/cinder.min.css'
-  # - 'zb/css/highlight.css'
-  # - 'zb/css/highlight.min.css'
-  # - 'zb/css/highlight.min.css'
-  # - 'zb/css/xcode.css'
+  - 'theme/css/base.css'
+  - 'theme/css/base.min.css'
+  - 'theme/css/bootstrap-custom.css'
+  - 'theme/css/bootstrap-custom.min.css'
+  - 'theme/css/cinder.css'
+  - 'theme/css/cinder.min.css'
+  - 'theme/css/highlight.css'
+  - 'theme/css/highlight.min.css'
+  - 'theme/css/highlight.min.css'
+  - 'theme/css/xcode.css'
   
 # markdown_extensions:
 #   - admonition
