@@ -1,0 +1,34 @@
+site_name: ZBeyer
+highlightjs: true
+theme: 
+  # name: cinder
+  name: bootstrap
+  # name: material
+custom_dir: 
+- 'zb/'
+  # name: 'rtd-dropdown'
+extra_js:
+  # - 'zb/js/base.js'
+  # - 'zb/js/jquery-3.3.1.min.js'
+  # - 'zb/js/bootstrap-3.0.3.min.js'
+  # - 'zb/js/highlight.pack.js'
+ 
+extra_css:
+  # - 'zb/css/base.css'
+  # - 'zb/css/base.min.css'
+  # - 'zb/css/bootstrap-custom.css'
+  # - 'zb/css/bootstrap-custom.min.css'
+  # - 'zb/css/cinder.css'
+  # - 'zb/css/cinder.min.css'
+  # - 'zb/css/highlight.css'
+  # - 'zb/css/highlight.min.css'
+  # - 'zb/css/highlight.min.css'
+  # - 'zb/css/xcode.css'
+  
+# markdown_extensions:
+#   - admonition
+
+# site_author: Christopher Simpkins
+# site_description: "A clean, responsive theme for static documentation websites that are generated with MkDocs"
+# repo_url: "https://github.com/chrissimpkins/cinder"
+# copyright: "Cinder is licensed under the <a href='https://github.com/chrissimpkins/cinder/blob/master/LICENSE.md'>MIT license</a>"
